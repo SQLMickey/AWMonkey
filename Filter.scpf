@@ -124,7 +124,7 @@
       </Table>
       <User version="1">
         <Include>True</Include>
-        <Expression>TRUE</Expression>
+        <Expression />
       </User>
       <UserDefinedType version="1">
         <Include>True</Include>
