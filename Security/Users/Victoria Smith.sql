@@ -1,0 +1,2 @@
+CREATE USER [Victoria Smith] WITHOUT LOGIN
+GO
