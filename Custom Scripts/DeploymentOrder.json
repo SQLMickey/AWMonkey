@@ -5,6 +5,8 @@
     {"Description":"Migration script 'Covers changes to: Customer. Script created at 2016-10-22 12:54.'","Type":"Migration","Id":"2016-11-27-154940 6o user"},
     {"Description":"Changes before migration script 'Covers changes to: Customer. Script created at 2016-11-27 16:03.'","Type":"Compare","Id":"2016-11-27-160426 ax auto"},
     {"Description":"Migration script 'Covers changes to: Customer. Script created at 2016-11-27 16:03.'","Type":"Migration","Id":"2016-11-27-160426 ay user"},
+    {"Description":"Changes before migration script 'Covers changes to: Customer. Script created at 2016-12-01 16:42.'","Type":"Compare","Id":"2016-12-01-164434 c6 auto"},
+    {"Description":"Migration script 'Covers changes to: Customer. Script created at 2016-12-01 16:42.'","Type":"Migration","Id":"2016-12-01-164434 c7 user"},
   ],
   "Conflict in this file?": "If there’s a conflict in this file, you probably want to keep both changes. Learn more: http://www.red-gate.com/SOC4/order-file-more-info"
 }
