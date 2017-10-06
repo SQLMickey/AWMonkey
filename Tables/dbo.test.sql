@@ -1,8 +1,0 @@
-CREATE TABLE [dbo].[test]
-(
-[id] [int] NOT NULL,
-[Cooldatga] [int] NULL
-) ON [PRIMARY]
-GO
-ALTER TABLE [dbo].[test] ADD CONSTRAINT [PK__test__3213E83FDB64996E] PRIMARY KEY CLUSTERED  ([id]) ON [PRIMARY]
-GO
